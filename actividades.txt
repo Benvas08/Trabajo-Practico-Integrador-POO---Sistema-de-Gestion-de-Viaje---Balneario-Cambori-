@@ -1,0 +1,44 @@
+TP Evaluativo – POO aplicada a una realidad cotidiana
+Objetivo
+Modelar una situación real usando clases, atributos, métodos, constructor __init__ y
+encapsulamiento, mostrando comprensión de estado interno y operaciones sobre ese
+estado.
+Consignas
+Cada estudiante debe:
+
+1. Elegir una realidad concreta (distinta a la de sus compañeros).
+Ejemplos: Cajero automático / Cuenta bancaria, Biblioteca, Estacionamiento,
+Turnero de consultorio, Carrito de compras, Ventas de kiosco, Gestión de
+pedidos, Agenda de contactos, Control de stock, Sistema de tickets.
+
+2. Diseñar al menos 1 clase principal (recomendado 2 si la temática lo amerita).
+
+3. Para la clase principal:
+o 3+ atributos (al menos 1 de tipo lista o colección si corresponde).
+o 3+ métodos (al menos 1 que modifique el estado y 1 que consulte sin
+modificar).
+o Encapsular al menos 1 atributo crítico con __ (ej.: saldo, PIN, stock
+interno).
+o Constructor __init__ y uso correcto de self.
+
+4. Incluir un menú simple en consola (while + input) con 3–5 opciones
+coherentes con el modelo.
+
+5. Validar entradas básicas (ej.: no permitir montos negativos, evitar strings
+vacíos).
+
+6. Mostrar salidas claras (prints ordenados) para explicar qué hace cada opción.
+
+7.Formato de entrega:
+Crear un repositorio personal en GitHub y subir su trabajo.
+Instrucciones:
+ Subir el archivo tp_integrador_poo.py (código del proyecto).
+ Incluir un archivo README.md con una breve descripción del programa y su
+funcionamiento.
+ El código debe estar probado, ejecutarse correctamente y sin errores.
+ Compartir el link del repositorio via Gmail
+ Fecha límite de entrega: 28/10/2025
+ Importante: La no presentación del trabajo en la fecha indicada implicará la baja
+de nota en la evaluación.
+ Defensa oral: Cada estudiante deberá explicar brevemente su trabajo y
+responder preguntas sobre su código .
