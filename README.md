@@ -50,7 +50,7 @@ Para ejecutar el programa:
 
 ```bash
 python tp_integrador_poo.py
-
+```
 
 ## 👨‍💻 Autor
 - 🧑 Nombre: Benjamin Ezequiel Vasques Perrone
